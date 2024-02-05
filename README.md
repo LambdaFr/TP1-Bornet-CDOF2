@@ -35,3 +35,9 @@ Red Square Placement:
 
 Ensured that the red square (food) spawns only in free squares, without any part of the snake on it.
 
+## Authors
+
+Joshua Bornet - Headmaster\
+Anouk Leyris\
+Jean-Baptiste Martin
+
